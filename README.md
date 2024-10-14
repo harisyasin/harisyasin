@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harisyasin
 - 👀 I’m interested in computers and everything about them
-- 🌱 I’m currently learning Computer Science at City, University of London
+- 🌱 I’m currently studying Computer Science at City, University of London
 - 💞️ I’m looking to collaborate on many different projects throughout my life
 - 📫 How to reach me: Just email or DM me
 - 😄 Pronouns: he/him
